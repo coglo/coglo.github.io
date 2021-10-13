@@ -7,7 +7,7 @@ bio: I'm a second-year Ph.D. student at Stony Brook University. I am interested 
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
+external-image: true
 picture: assets/images/iprofile.jpg
 
 # If you want to include your resume, set to true
@@ -15,7 +15,7 @@ picture: assets/images/iprofile.jpg
 
 #resume: true
 
-url: https://yangliustonybrook.github.io
+url: https://coglo.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -41,7 +41,7 @@ disqus: false
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: yangliustonybrook
+github: coglo
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
