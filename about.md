@@ -42,7 +42,6 @@ My doctoral dissertation examines the phonological and phonetic structures of Ma
 
 <p  style="text-align:justify">
 Here are some of my other projects: <A HREF="../projects">Projects</A>.
-If you are a student or a researcher interested in collaborating with me, feel free to get in touch via email!
 </p>
 <p  style="text-align:justify">
 If you are a student or a researcher interested in collaborating with me, feel free to get in touch via email!
