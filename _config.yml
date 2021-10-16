@@ -35,10 +35,10 @@ disqus: false
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
 twitter: twitter
-#google: google
+google: https://www.google.com/
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: linkedin
+linkedin: https://www.linkedin.com/
 # youtube: myyoutube
 # spotify: myspotify
 github: coglo
