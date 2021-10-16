@@ -29,11 +29,17 @@
                     <a class="link" href="{{ site.url }}/teaching">Teaching</a>
                 </li>
             {% endif %}
+        
+            {% if page.title != "Other" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/Other">Other</a>
+                </li>
+            {% endif %}
 
                     {% if site.blog == true %}
-            {% if page.title != "LongIsland" %}
+            {% if page.title != "中文主页" %}
                 <li class="item">
-                    <a class="link" href="{{ site.url }}/LongIsland">LongIsland</a>
+                    <a class="link" href="{{ site.url }}/中文主页">中文主页</a>
                 </li>
             {% endif %}
         {% endif %}
