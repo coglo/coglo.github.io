@@ -1,6 +1,6 @@
 # main text of home
 name: Yang Liu
-bio: I'm currently a Ph.D. candidate at Stony Brook University. I am interested in phonology, computational linguistics, syntax-prosody interface and Chinese linguistics.
+bio: Welcome to my personal website! I'm currently a Ph.D. candidate at Stony Brook University. I am interested in phonology, computational linguistics, syntax-prosody interface and Chinese linguistics.
 
 # twitter summary info
 #description: A blog about technology and stuff related
@@ -16,7 +16,7 @@ picture: assets/images/1.jpg
 #resume: true
 
 url: https://coglo.github.io
-# your url: http://USERNAME.github.io
+your url: http://coglo.github.io
 
 permalink: /:title/
 
