@@ -9,7 +9,7 @@ layout: page
 <table style="width: 750px; height: 100px;">
  <tr>
     <td>
-     Ph.D. Candidate (expected June 2021) <br>
+     Ph.D. Candidate <br>
      Office: N210, SBS Buiding <BR>
      <A HREF="https://linguistics.stonybrook.edu/">Dept. of Linguistics</A><BR>
       Stony Brook University<BR>
@@ -28,17 +28,22 @@ layout: page
  </tr>
 </table>
 
-<p  style="text-align:justify"> I am currently a doctoral candidate at Stony Brook University, where I am due to receive my Ph.D. in Linguistics in June 2022. I am working on a dissertation under the direction of my advisor, <A HREF="../projects">Projects</A> or <A HREF="https://linguistics.stonybrook.edu/faculty/lori.repetti/index.php/">Dr.Lori Repetti</A>. 
+<p  style="text-align:justify"> I am currently a doctoral candidate at Stony Brook University, where I am due to receive my Ph.D. in Linguistics in June 2022. I am working on a dissertation with my advisor, <A HREF="https://linguistics.stonybrook.edu/faculty/lori.repetti/index.php/">Dr.Lori Repetti</A>. 
 </p>
 
 <h2>Research</h2>
 
 <p  style="text-align:justify">
-I am working on the data analyses of my dissertation: Addressing Outstanding Questions of the Mandarin Syllable
+Dissertation: Addressing Outstanding Questions of the Mandarin Syllable
+</p>
+<p  style="text-align:justify">
 My doctoral dissertation examines the phonological and phonetic structures of Mandarin syllables, by means of both behavioral and phonetic experiments, as well as statistical models like Phonotactic Learner.
 </p>
 
 <p  style="text-align:justify">
-Here are some of my other projects: <A HREF="../projects">Projects</A>
+Here are some of my other projects: <A HREF="../projects">Projects</A>.
+If you are a student or a researcher interested in collaborating with me, feel free to get in touch via email!
+</p>
+<p  style="text-align:justify">
 If you are a student or a researcher interested in collaborating with me, feel free to get in touch via email!
 </p>
