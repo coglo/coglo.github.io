@@ -28,29 +28,17 @@ layout: page
  </tr>
 </table>
 
-<p  style="text-align:justify">I am currently a Ph.D. candidate in the Linguistics Department at Stony Brook University.
+<p  style="text-align:justify"> I am currently a doctoral candidate at Stony Brook University, where I am due to receive my Ph.D. in Linguistics in June 2022. I am working on a dissertation under the direction of my advisor, <A HREF="../projects">Projects</A> or <A HREF="https://linguistics.stonybrook.edu/faculty/lori.repetti/index.php/">Dr.Lori Repetti</A>. 
+</p>
+
+<h2>Research</h2>
+
+<p  style="text-align:justify">
+I am working on the data analyses of my dissertation: Addressing Outstanding Questions of the Mandarin Syllable
+My doctoral dissertation examines the phonological and phonetic structures of Mandarin syllables, by means of both behavioral and phonetic experiments, as well as statistical models like Phonotactic Learner.
 </p>
 
 <p  style="text-align:justify">
-I am working on the data analysis of my thesis.
-</p>
-
-     
-<p  style="text-align:justify">I am an Assistant Professor in the Linguistics Department at the  University of Utah.
-I am a computational psycholinguist, also interested in mathematical approaches to linguistic theory (mostly dealing with issues in syntax and phonology).
-</p>
-
-<h2>Research (in brief)</h2>
-
-
-<p  style="text-align:justify">
-My research lies at the intersection between computational, theoretical, and experimental linguistics.
-Essentially, I believe that language as a cognitive faculty can be characterized in fundamentally computational terms.
-My work pivots around three central questions: What are the representational primitives underlying the language system? What are the essential computational processes of language processing? How do these components interact with core cognitive resources like memory? 
-I approach these questions by drawing from different areas of theoretical computer science (in particular, formal languages and parsing theory), a  perspective that is multi-disciplinary at its core, and has allowed me to work on a variety of topics spanning phonology, morphology, semantics, and sentence processing.
-</p>
-
-<p  style="text-align:justify">
-If you are wondering what any of this actually means, feel free to browse my <A HREF="../projects">Projects</A> or <A HREF="../publications">Publications</A> pages!
+Here are some of my other projects: <A HREF="../projects">Projects</A>
 If you are a student or a researcher interested in collaborating with me, feel free to get in touch via email!
 </p>
