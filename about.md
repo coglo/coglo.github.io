@@ -25,9 +25,9 @@ layout: page
  </tr>
 </table>
 
-<p  style="text-align:justify">I am currently a second-year Ph.D. student in the Linguistics Department at Stony Brook University.
+<p  style="text-align:justify">I am currently a Ph.D. candidate in the Linguistics Department at Stony Brook University.
 </p>
 
 <p  style="text-align:justify">
-I am working on my first QP (consonant + glide onset). My previous work includes PPs, D-linking elements,etc.
+I am working on the data analysis of my thesis.
 </p>
