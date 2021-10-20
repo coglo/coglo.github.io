@@ -28,7 +28,7 @@ layout: page
  </tr>
 </table>
 
-<p  style="text-align:justify"> I am currently a doctoral candidate at Stony Brook University, where I am due to receive my Ph.D. in Linguistics in June 2022. I am working on a dissertation with my advisor, <A HREF="https://linguistics.stonybrook.edu/faculty/lori.repetti/index.php/">Dr.Lori Repetti</A>. 
+<p  style="text-align:justify"> I am currently a doctoral candidate at Stony Brook University, where I am due to receive my Ph.D. in Linguistics in June 2022. I am working on my dissertation with my advisor, <A HREF="https://linguistics.stonybrook.edu/faculty/lori.repetti/index.php/">Dr.Lori Repetti</A>. 
 </p>
 
 <h2>Research</h2>
