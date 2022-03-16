@@ -15,7 +15,7 @@ layout: page
       Stony Brook University<BR>
      yang.liu.11[_at_]stonybrook[_dot_]edu<BR>
       <BR>
-       <A HREF="CV.pdf">CV</A> (updated March 2022)
+       <A HREF="CV.pdf">CV</A> (updated Mar. 2022)
       <br><br>
 
 </td><td>
